@@ -94,9 +94,3 @@ This confirms both domain intuition and insights obtained during EDA.
 - Feature engineering has a significant impact on model performance
 
 ---
-
-## 🚀 Possible Improvements
-- Hyperparameter optimization
-- Cross-validation
-- Advanced feature engineering
-- Model explainability (SHAP, feature importance)
